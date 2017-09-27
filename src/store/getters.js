@@ -1,3 +1,1 @@
-/**
- * Created by ${刘家福} on ${2017.05.18}.
- */
+export const singer = state => state.singer
