@@ -71,7 +71,6 @@
       },
       _initDots() {
         this.dots = new Array(this.children.length)
-        console.log(this.children.length)
       },
       _initSlider() {
         this.slider = new BScroll(this.$refs.slider, {
